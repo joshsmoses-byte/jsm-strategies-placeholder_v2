@@ -1,4 +1,4 @@
-# JSM Placeholder Site — V3
+# JSM Placeholder Site — V2
 
 Separate placeholder iteration. The existing full JSM site remains untouched.
 
