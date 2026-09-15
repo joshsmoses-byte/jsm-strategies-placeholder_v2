@@ -1,5 +1,0 @@
-name = "jsm-strategies-placeholder-v2"
-compatibility_date = "2026-09-15"
-
-[assets]
-directory = "."
