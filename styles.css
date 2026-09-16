@@ -158,23 +158,20 @@ footer {
 
   .copy {
     width: 100%;
-    padding: 150px 7vw 45vh;
+    padding: 145px 7vw 45vh;
   }
+
+  .eyebrow { margin-bottom: 24px; }
 
   h1 {
-    font-size: 17vw;
-    line-height: .92;
+    font-size: clamp(54px, 15.5vw, 76px);
+    line-height: .9;
+    letter-spacing: -.065em;
+    white-space: normal;
+    overflow-wrap: normal;
+    word-break: normal;
     margin-bottom: 25px;
   }
-
-  h1 .line-one,
-  h1 span:last-child {
-    display: inline;
-  }
-
-  h1 .desktop-break { display: none; }
-
-  h1 span:last-child { white-space: nowrap; }
 
   .description {
     font-size: 14px;
